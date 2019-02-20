@@ -1,3 +1,4 @@
 # Hidden-Badge-ReCaptcha
 
-dsfsf
+Fichier du plugin Hidden Badge ReCaptcha
+https://wordpress.org/plugins/hiddenbadgerecaptcha
