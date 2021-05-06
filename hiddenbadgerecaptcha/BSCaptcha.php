@@ -3,7 +3,7 @@
 Plugin Name: Hidden Badge ReCaptcha
 Description: Plugin pour masquer le badge ReCaptcha V3 de Google
 Author: Benjamin Simier
-Version: 1.1
+Version: 1.2
 Author URI: https://www.benjaminsimier.com
 */
 
